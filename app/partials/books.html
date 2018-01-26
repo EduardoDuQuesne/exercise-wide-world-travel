@@ -1,0 +1,7 @@
+<div ng-repeat="book in bookList">
+    <div class="book-card">
+        <h3>{{book.title}}</h3>
+        <h4>{{book.type.toUpperCase().slice(0, 1) + book.type.slice(1)}}</h4>
+        <h4>${{book.price.toFixed(2)}}</h4>
+    </div>
+</div>
