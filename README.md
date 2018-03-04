@@ -1,4 +1,6 @@
-# Wide World Travel Guides
+# Nashville Software School: AngularJS Exercise
+
+## Wide World Travel Guides
 
 #### Part 1: Using a controller
 
